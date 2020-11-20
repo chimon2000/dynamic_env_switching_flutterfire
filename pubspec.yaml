@@ -10,7 +10,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  animate_do: ^1.7.3
   binder: ^0.2.2
   cloud_firestore: ^0.14.3
   cupertino_icons: ^1.0.0
